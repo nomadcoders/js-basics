@@ -3,4 +3,10 @@ body {
 }
 
 h1 {
+  color: #34495e;
+  transition: color 0.5s ease-in-out;
+}
+
+.clicked {
+  color: #7f8c8d;
 }
